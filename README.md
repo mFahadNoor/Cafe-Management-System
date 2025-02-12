@@ -1,4 +1,4 @@
-#Preview
+# Preview
 View the report.pdf to view the complete report including screenshots of the project
 
 # Info
