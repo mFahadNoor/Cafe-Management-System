@@ -1,0 +1,383 @@
+D:\Hassan\Database\project\latest\latest\bin\Debug\latest.exe
+D:\Hassan\Database\project\latest\latest\bin\Debug\latest.exe.config
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.csproj.AssemblyReference.cache
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.Login.resources
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.Properties.Resources.resources
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.signup.resources
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.csproj.GenerateResource.cache
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.csproj.CoreCompileInputs.cache
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.exe
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.pdb
+D:\Hassan\Database\project\latest\latest\bin\Debug\latest.pdb
+D:\Hassan\Database\project\latest\latest\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\Google.Protobuf.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\K4os.Compression.LZ4.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\K4os.Hash.xxHash.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\MySql.Data.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Buffers.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.IO.Pipelines.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Memory.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Numerics.Vectors.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\ZstdSharp.dll
+D:\Hassan\Database\project\latest\latest\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\Google.Protobuf.pdb
+D:\Hassan\Database\project\latest\latest\bin\Debug\Google.Protobuf.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\K4os.Compression.LZ4.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\K4os.Hash.xxHash.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\MySql.Data.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Buffers.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.IO.Pipelines.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Memory.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Numerics.Vectors.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hassan\Database\project\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.csproj.Up2Date
+D:\Hassan\Database\project\latest\latest\obj\Debug\latest.Admin_ManageItems_AddItems.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.csproj.AssemblyReference.cache
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.csproj.SuggestedBindingRedirects.cache
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.Admin_ManageItems_AddItems.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.Login.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.Properties.Resources.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.signup.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.csproj.GenerateResource.cache
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.csproj.CoreCompileInputs.cache
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.exe
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.pdb
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\latest.exe.config
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\latest.exe
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\latest.pdb
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\BouncyCastle.Cryptography.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\Google.Protobuf.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\K4os.Compression.LZ4.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\K4os.Hash.xxHash.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\MySql.Data.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Buffers.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Configuration.ConfigurationManager.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.IO.Pipelines.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Memory.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Numerics.Vectors.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\ZstdSharp.dll
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\BouncyCastle.Cryptography.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\Google.Protobuf.pdb
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\Google.Protobuf.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\K4os.Compression.LZ4.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\K4os.Hash.xxHash.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\MySql.Data.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Buffers.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.IO.Pipelines.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Memory.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Numerics.Vectors.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.csproj.CopyComplete
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.UserHome.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.UserBrowse.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.userManageCart.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.addCreditCard.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.editAccount.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.Verification.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.changePass.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.checkout.resources
+S:\FAST stuff\SEM 4\DB\Project\hassan\latest\latest\obj\Debug\latest.payment.resources
+D:\Hassan\database fahd project\latest\latest\bin\Debug\latest.exe.config
+D:\Hassan\database fahd project\latest\latest\bin\Debug\latest.exe
+D:\Hassan\database fahd project\latest\latest\bin\Debug\latest.pdb
+D:\Hassan\database fahd project\latest\latest\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\Google.Protobuf.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\K4os.Compression.LZ4.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\K4os.Hash.xxHash.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\MySql.Data.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Buffers.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.IO.Pipelines.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Memory.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Numerics.Vectors.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\ZstdSharp.dll
+D:\Hassan\database fahd project\latest\latest\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\Google.Protobuf.pdb
+D:\Hassan\database fahd project\latest\latest\bin\Debug\Google.Protobuf.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\K4os.Compression.LZ4.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\K4os.Hash.xxHash.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\MySql.Data.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Buffers.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.IO.Pipelines.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Memory.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Numerics.Vectors.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hassan\database fahd project\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.csproj.AssemblyReference.cache
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.addCreditCard.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.changePass.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.checkout.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.editAccount.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Login.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.payment.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.UserBrowse.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.UserHome.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Properties.Resources.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.signup.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.userManageCart.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Verification.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.csproj.GenerateResource.cache
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.csproj.CoreCompileInputs.cache
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.csproj.Up2Date
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.exe
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.pdb
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.admin_delete_Item.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.admin_edit_items.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_View_all_items.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_view_allcategories.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_View_all_Tables.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.admin_search_table.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.admin_search_item.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.admin_add_table.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_Delete_Table.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.admin_edit_table.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_add_category.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_delete_Category.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_Add_disount.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_Inventory.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_All_PurchaseHistory.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_change__pass.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_Add_Items.resources
+D:\Hassan\database fahd project\latest\latest\obj\Debug\latest.Admin_mainpage.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\latest.exe.config
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\latest.exe
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\latest.pdb
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\BouncyCastle.Cryptography.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\Google.Protobuf.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\K4os.Compression.LZ4.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\K4os.Hash.xxHash.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\MySql.Data.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Buffers.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Configuration.ConfigurationManager.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.IO.Pipelines.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Memory.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Numerics.Vectors.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\ZstdSharp.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\BouncyCastle.Cryptography.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\Google.Protobuf.pdb
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\Google.Protobuf.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\K4os.Compression.LZ4.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\K4os.Hash.xxHash.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\MySql.Data.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Buffers.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.IO.Pipelines.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Memory.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Numerics.Vectors.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.csproj.AssemblyReference.cache
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.csproj.SuggestedBindingRedirects.cache
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.addCreditCard.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_add_category.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_Add_disount.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_Add_Items.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.admin_add_table.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_All_PurchaseHistory.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_change__pass.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.admin_delete_Item.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_delete_Category.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_Delete_Table.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.admin_edit_items.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.admin_edit_table.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_Inventory.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_mainpage.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.admin_search_item.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.admin_search_table.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_view_allcategories.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_View_all_items.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Admin_View_all_Tables.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.changePass.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.checkout.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.editAccount.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Login.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.payment.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.UserBrowse.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.UserHome.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Properties.Resources.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.signup.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.userManageCart.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.Verification.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.csproj.GenerateResource.cache
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.csproj.CoreCompileInputs.cache
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.csproj.CopyComplete
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.exe
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.pdb
+S:\FAST stuff\SEM 4\DB\Project\final day\p2\latest\latest\obj\Debug\latest.viewHistory.resources
+D:\Hassan\merge\latest\latest\bin\Debug\latest.exe.config
+D:\Hassan\merge\latest\latest\bin\Debug\latest.exe
+D:\Hassan\merge\latest\latest\bin\Debug\latest.pdb
+D:\Hassan\merge\latest\latest\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Hassan\merge\latest\latest\bin\Debug\Google.Protobuf.dll
+D:\Hassan\merge\latest\latest\bin\Debug\K4os.Compression.LZ4.dll
+D:\Hassan\merge\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Hassan\merge\latest\latest\bin\Debug\K4os.Hash.xxHash.dll
+D:\Hassan\merge\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hassan\merge\latest\latest\bin\Debug\MySql.Data.dll
+D:\Hassan\merge\latest\latest\bin\Debug\System.Buffers.dll
+D:\Hassan\merge\latest\latest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Hassan\merge\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Hassan\merge\latest\latest\bin\Debug\System.IO.Pipelines.dll
+D:\Hassan\merge\latest\latest\bin\Debug\System.Memory.dll
+D:\Hassan\merge\latest\latest\bin\Debug\System.Numerics.Vectors.dll
+D:\Hassan\merge\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hassan\merge\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hassan\merge\latest\latest\bin\Debug\ZstdSharp.dll
+D:\Hassan\merge\latest\latest\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Hassan\merge\latest\latest\bin\Debug\Google.Protobuf.pdb
+D:\Hassan\merge\latest\latest\bin\Debug\Google.Protobuf.xml
+D:\Hassan\merge\latest\latest\bin\Debug\K4os.Compression.LZ4.xml
+D:\Hassan\merge\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Hassan\merge\latest\latest\bin\Debug\K4os.Hash.xxHash.xml
+D:\Hassan\merge\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Hassan\merge\latest\latest\bin\Debug\MySql.Data.xml
+D:\Hassan\merge\latest\latest\bin\Debug\System.Buffers.xml
+D:\Hassan\merge\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Hassan\merge\latest\latest\bin\Debug\System.IO.Pipelines.xml
+D:\Hassan\merge\latest\latest\bin\Debug\System.Memory.xml
+D:\Hassan\merge\latest\latest\bin\Debug\System.Numerics.Vectors.xml
+D:\Hassan\merge\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hassan\merge\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hassan\merge\latest\latest\obj\Debug\latest.csproj.AssemblyReference.cache
+D:\Hassan\merge\latest\latest\obj\Debug\latest.addCreditCard.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_add_category.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_Add_disount.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_Add_Items.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.admin_add_table.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_All_PurchaseHistory.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_change__pass.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.admin_delete_Item.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_delete_Category.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_Delete_Table.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.admin_edit_items.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.admin_edit_table.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_Inventory.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_mainpage.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.admin_search_item.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.admin_search_table.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_view_allcategories.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_View_all_items.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Admin_View_all_Tables.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.changePass.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.checkout.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.editAccount.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Login.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.payment.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.UserBrowse.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.UserHome.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Properties.Resources.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.signup.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.userManageCart.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.Verification.resources
+D:\Hassan\merge\latest\latest\obj\Debug\latest.csproj.GenerateResource.cache
+D:\Hassan\merge\latest\latest\obj\Debug\latest.csproj.CoreCompileInputs.cache
+D:\Hassan\merge\latest\latest\obj\Debug\latest.csproj.Up2Date
+D:\Hassan\merge\latest\latest\obj\Debug\latest.exe
+D:\Hassan\merge\latest\latest\obj\Debug\latest.pdb
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\latest.exe.config
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\latest.exe
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\latest.pdb
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\BouncyCastle.Cryptography.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\Google.Protobuf.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\K4os.Compression.LZ4.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\K4os.Hash.xxHash.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\MySql.Data.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Buffers.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Configuration.ConfigurationManager.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.IO.Pipelines.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Memory.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Numerics.Vectors.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\ZstdSharp.dll
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\BouncyCastle.Cryptography.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\Google.Protobuf.pdb
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\Google.Protobuf.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\K4os.Compression.LZ4.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\K4os.Hash.xxHash.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\MySql.Data.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Buffers.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.IO.Pipelines.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Memory.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Numerics.Vectors.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.csproj.AssemblyReference.cache
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.csproj.SuggestedBindingRedirects.cache
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.addCreditCard.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_add_category.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_Add_disount.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_Add_Items.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.admin_add_table.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_All_PurchaseHistory.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_change__pass.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.admin_delete_Item.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_delete_Category.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_Delete_Table.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.admin_edit_items.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.admin_edit_table.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_Inventory.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_mainpage.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.admin_search_item.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.admin_search_table.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_view_allcategories.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_View_all_items.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_View_all_Tables.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.changePass.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.checkout.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.editAccount.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Login.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.payment.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.UserBrowse.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.UserHome.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Properties.Resources.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.signup.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.userManageCart.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Verification.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.csproj.GenerateResource.cache
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.csproj.CoreCompileInputs.cache
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.csproj.CopyComplete
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.exe
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.pdb
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.viewHistory.resources
+S:\FAST stuff\SEM 4\DB\Project\final day\khobsorat\latest\latest\obj\Debug\latest.Admin_queries.resources
